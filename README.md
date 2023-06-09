@@ -4,7 +4,6 @@
 
 # **Description**
 
-Android Flexible Adapter
 FlexibleAdapter is a powerful RecyclerView adapter library for Android that provides advanced features and customization options. It simplifies the development of flexible and efficient RecyclerViews by offering a range of functionalities, including multi-selection, expandable items, swipe gestures, drag and drop support, and easy customization.
 
 To get a Git project into your build:

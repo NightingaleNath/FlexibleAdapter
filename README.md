@@ -1,8 +1,8 @@
 # **FlexibleAdapter**
 
-FlexibleAdapter is a powerful RecyclerView adapter library for Android
-
 [![](https://jitpack.io/v/NightingaleNath/FlexibleAdapter.svg)](https://jitpack.io/#NightingaleNath/FlexibleAdapter)
+
+FlexibleAdapter is a powerful RecyclerView adapter library for Android
 
 # **Description**
 
